@@ -29,5 +29,5 @@ The code above is a **Public Proof-of-Concept (PoC)** to demonstrate structural 
 * **Production Core & Advanced Modules:** Available under commercial license.
 * **Tier 1 Integration Package:** **0.08 BTC**
 
-To acquire full operational modules, custom pipeline integration, or enterprise licensing, contact directly through authorized channels.
+To acquire full operational modules, custom pipeline integration, or enterprise licensing.
 Para solicitar una consultoría orientada a la adquisición de módulos operativos completos, integración de canalizaciones personalizadas o licencias empresariales, [haga clic aquí para contactar vía WhatsApp](https://wa.me/584248468536).
